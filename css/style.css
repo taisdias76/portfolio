@@ -496,6 +496,10 @@ section p {
     display: block;
   }
 
+  .column-skills {
+    width: 100%;
+  }
+
   .projects-container {
     flex-direction: row;
     align-items: center;
